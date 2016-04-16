@@ -7,6 +7,7 @@ int main(void)
   printf("more master work\n");
   printf("here is feature to merge 2!");
   printf("master work2 !\n");
+  printf("why do I keep conflicting");
   time_t t;
   time(&t);
   printf("The current time is: %s", ctime(&t));
